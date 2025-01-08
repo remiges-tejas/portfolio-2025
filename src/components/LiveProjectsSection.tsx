@@ -11,7 +11,7 @@ const projects = [
     raw data, including height and weight, in a user-friendly interface. Developed backend services with 
     Spring Boot to process data, calculate BMI, and generate detailed reports.`,
     liveLink: "https://fit-metrics.vercel.app/",
-    previewImage: "../../public/fitmetrics.png",
+    previewImage: "fitmetrics.png",
   },
   {
     title: "Freelance Project (HopeAndHarmony)",
@@ -20,7 +20,7 @@ const projects = [
     Collaborated with the NGO to understand their requirements, delivering a solution that improved their 
     online presence and functionality.`,
     liveLink: "https://www.hopeandharmonyfoundation.org/#/",
-    previewImage: "../../public/hopeandharmony.png",
+    previewImage: "hopeandharmony.png",
   },
   {
     title: "Freelance Project (Gentech Solar)",
@@ -28,7 +28,7 @@ const projects = [
     description: `Designed, developed, and launched a dynamic commercial website, GenTechSolar.in, using HTML, 
     CSS, Bootstrap, PHP, and JavaScript, contributing to the organization’s online presence and customer engagement.`,
     liveLink: "https://gentechsolar.in",
-    previewImage: "../../public/gentechsolar.png",
+    previewImage: "gentechsolar.png",
   },
 ];
 
